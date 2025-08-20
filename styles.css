@@ -13,15 +13,8 @@ header {
   text-align: center;
   background: #1976d2;
   color: white;
-  padding: 2rem 1rem;
+  padding: 3rem 1rem;
   border-bottom: 5px solid #1565c0;
-}
-
-header img.banner {
-  width: 100%;
-  height: auto;
-  border-bottom: 5px solid #1565c0;
-  margin-bottom: 1rem;
 }
 
 header h1 {
@@ -71,7 +64,7 @@ p {
   font-size: 1rem;
 }
 
-/* Footer */
+/* References section */
 footer {
   background: #263238;
   color: #eceff1;
