@@ -101,3 +101,12 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+/* Image styles for the banner */
+img {
+  max-width: 100%; /* Ensures the image doesn't overflow its container */
+  height: auto; /* Maintains the image's aspect ratio */
+  display: block; /* Centers the image */
+  margin: 1.5rem auto; /* Adds spacing and centers the image horizontally */
+  border-radius: 8px; /* Adds rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+}
